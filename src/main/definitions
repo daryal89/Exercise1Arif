@@ -1,0 +1,23 @@
+//variables
+
+	1. instance variable
+	2. static variable
+	3. local variable
+	
+	# if you just declare the variable but not initialize
+	the default value for;
+	int =0;
+	double =0.0;
+	float =0.0;
+	String = null;
+	boolean = false
+	char =
+----------------------------
+increment or decrement
+pre-increment ++i
+post -increment i++
+
+int i =10;
+int j = ++i;
+int k = j++;
+int l =++k;
